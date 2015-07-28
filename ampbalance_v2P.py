@@ -1,4 +1,4 @@
-#!C:\anaconda python
+#!C:\anaconda
 import sys, os, re
 import time
 import threading, thread
